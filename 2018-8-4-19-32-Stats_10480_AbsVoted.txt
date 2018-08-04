@@ -1,0 +1,69 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+10480	08/28/2018	2018 Primary Election	State Totals	Voted Vote-by-Mail	113,863	92,607	1,082	36,978	244,530	08/04/2018  1:03PM
+10480	08/28/2018	2018 Primary Election	Alachua	Voted Vote-by-Mail	538	929	13	245	1,725	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Baker	Voted Vote-by-Mail	141	110	1	11	263	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Bay	Voted Vote-by-Mail	755	459	6	153	1,373	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Bradford	Voted Vote-by-Mail	322	178	1	33	534	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Brevard	Voted Vote-by-Mail	171	107	3	47	328	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Broward	Voted Vote-by-Mail	5,086	11,002	82	2,707	18,877	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Calhoun	Voted Vote-by-Mail	18	22	1	3	44	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Charlotte	Voted Vote-by-Mail	1,846	1,425	15	647	3,933	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Citrus	Voted Vote-by-Mail	2,904	1,567	24	832	5,327	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Clay	Voted Vote-by-Mail	899	255	7	194	1,355	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Collier	Voted Vote-by-Mail	6,825	2,177	29	1,636	10,667	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Columbia	Voted Vote-by-Mail	127	144	1	44	316	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	DeSoto	Voted Vote-by-Mail	2	0	0	0	2	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Dixie	Voted Vote-by-Mail	80	78	0	13	171	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Duval	Voted Vote-by-Mail	874	922	9	208	2,013	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Escambia	Voted Vote-by-Mail	3,017	1,668	29	623	5,337	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Flagler	Voted Vote-by-Mail	66	51	0	4	121	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Franklin	Voted Vote-by-Mail	110	150	5	28	293	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Gadsden	Voted Vote-by-Mail	83	451	2	20	556	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Gilchrist	Voted Vote-by-Mail	82	53	0	10	145	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Glades	Voted Vote-by-Mail	38	28	0	10	76	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Gulf	Voted Vote-by-Mail	84	49	0	2	135	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Hamilton	Voted Vote-by-Mail	55	95	0	0	150	08/03/2018  7:12AM
+10480	08/28/2018	2018 Primary Election	Hardee	Voted Vote-by-Mail	30	12	1	7	50	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Hendry	Voted Vote-by-Mail	60	38	0	8	106	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Hernando	Voted Vote-by-Mail	2,559	1,790	24	798	5,171	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Highlands	Voted Vote-by-Mail	850	511	5	231	1,597	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Hillsborough	Voted Vote-by-Mail	11,146	9,944	123	3,543	24,756	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Holmes	Voted Vote-by-Mail	164	80	0	11	255	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Indian River	Voted Vote-by-Mail	1,234	703	10	288	2,235	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Jackson	Voted Vote-by-Mail	107	130	0	3	240	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Jefferson	Voted Vote-by-Mail	59	87	0	15	161	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Lafayette	Voted Vote-by-Mail	10	3	0	0	13	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Lake	Voted Vote-by-Mail	492	349	3	152	996	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Lee	Voted Vote-by-Mail	12,256	5,672	66	3,367	21,361	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Leon	Voted Vote-by-Mail	1,018	1,624	11	285	2,938	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Levy	Voted Vote-by-Mail	249	141	8	53	451	08/03/2018  7:12AM
+10480	08/28/2018	2018 Primary Election	Liberty	Voted Vote-by-Mail	12	48	0	1	61	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Madison	Voted Vote-by-Mail	9	9	0	0	18	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Manatee	Voted Vote-by-Mail	3,805	2,367	40	1,153	7,365	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Marion	Voted Vote-by-Mail	3,364	2,014	19	913	6,310	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Martin	Voted Vote-by-Mail	2,299	1,071	24	622	4,016	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Miami-Dade	Voted Vote-by-Mail	3,175	2,928	22	1,321	7,446	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Monroe	Voted Vote-by-Mail	779	630	15	263	1,687	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Nassau	Voted Vote-by-Mail	956	357	5	131	1,449	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Okaloosa	Voted Vote-by-Mail	1,074	340	4	182	1,600	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Okeechobee	Voted Vote-by-Mail	33	21	0	5	59	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Orange	Voted Vote-by-Mail	5,317	6,678	69	2,305	14,369	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Osceola	Voted Vote-by-Mail	1,378	2,009	14	788	4,189	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Palm Beach	Voted Vote-by-Mail	3,063	4,595	69	1,109	8,836	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Pasco	Voted Vote-by-Mail	4,094	3,053	28	1,336	8,511	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Pinellas	Voted Vote-by-Mail	11,186	8,661	117	4,055	24,019	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Polk	Voted Vote-by-Mail	88	58	1	25	172	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Putnam	Voted Vote-by-Mail	155	130	3	31	319	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Santa Rosa	Voted Vote-by-Mail	877	338	13	185	1,413	08/04/2018  1:03PM
+10480	08/28/2018	2018 Primary Election	Sarasota	Voted Vote-by-Mail	4,783	5,138	44	1,925	11,890	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Seminole	Voted Vote-by-Mail	1,211	807	10	410	2,438	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	St. Johns	Voted Vote-by-Mail	1,926	990	21	406	3,343	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	St. Lucie	Voted Vote-by-Mail	2,098	1,905	12	773	4,788	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Sumter	Voted Vote-by-Mail	1,295	761	5	321	2,382	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Suwannee	Voted Vote-by-Mail	176	136	0	13	325	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Taylor	Voted Vote-by-Mail	64	81	0	10	155	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Union	Voted Vote-by-Mail	26	17	0	4	47	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Volusia	Voted Vote-by-Mail	5,911	4,241	66	2,434	12,652	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Wakulla	Voted Vote-by-Mail	88	94	0	7	189	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Walton	Voted Vote-by-Mail	157	45	0	0	202	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Washington	Voted Vote-by-Mail	107	81	2	19	209	08/04/2018  7:11AM
