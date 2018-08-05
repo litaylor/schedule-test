@@ -1,0 +1,69 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+10480	08/28/2018	2018 Primary Election	State Totals	Vote-by-Mail Provided (Not Yet Returned)	844,769	932,365	10,037	448,885	2,236,056	08/04/2018  1:03PM
+10480	08/28/2018	2018 Primary Election	Alachua	Vote-by-Mail Provided (Not Yet Returned)	5,706	11,827	136	3,275	20,944	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Baker	Vote-by-Mail Provided (Not Yet Returned)	461	281	1	38	781	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Bay	Vote-by-Mail Provided (Not Yet Returned)	5,132	3,255	52	1,323	9,762	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Bradford	Vote-by-Mail Provided (Not Yet Returned)	1,247	990	10	255	2,502	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Brevard	Vote-by-Mail Provided (Not Yet Returned)	43,523	37,090	511	16,124	97,248	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Broward	Vote-by-Mail Provided (Not Yet Returned)	39,291	101,955	735	37,898	179,879	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Calhoun	Vote-by-Mail Provided (Not Yet Returned)	293	564	4	40	901	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Charlotte	Vote-by-Mail Provided (Not Yet Returned)	9,357	8,034	132	3,981	21,504	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Citrus	Vote-by-Mail Provided (Not Yet Returned)	9,645	6,315	100	3,618	19,678	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Clay	Vote-by-Mail Provided (Not Yet Returned)	10,868	4,537	92	3,518	19,015	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Collier	Vote-by-Mail Provided (Not Yet Returned)	24,053	10,019	148	7,549	41,769	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Columbia	Vote-by-Mail Provided (Not Yet Returned)	2,323	1,843	22	535	4,723	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	DeSoto	Vote-by-Mail Provided (Not Yet Returned)	535	616	5	146	1,302	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Dixie	Vote-by-Mail Provided (Not Yet Returned)	549	465	6	112	1,132	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Duval	Vote-by-Mail Provided (Not Yet Returned)	16,452	19,403	262	6,395	42,512	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Escambia	Vote-by-Mail Provided (Not Yet Returned)	14,682	9,548	125	4,211	28,566	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Flagler	Vote-by-Mail Provided (Not Yet Returned)	5,489	4,554	51	2,318	12,412	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Franklin	Vote-by-Mail Provided (Not Yet Returned)	437	594	11	101	1,143	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Gadsden	Vote-by-Mail Provided (Not Yet Returned)	423	2,261	7	133	2,824	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Gilchrist	Vote-by-Mail Provided (Not Yet Returned)	629	387	4	101	1,121	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Glades	Vote-by-Mail Provided (Not Yet Returned)	189	148	3	38	378	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Gulf	Vote-by-Mail Provided (Not Yet Returned)	303	322	1	15	641	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Hamilton	Vote-by-Mail Provided (Not Yet Returned)	365	543	1	17	926	08/03/2018  7:12AM
+10480	08/28/2018	2018 Primary Election	Hardee	Vote-by-Mail Provided (Not Yet Returned)	309	251	2	77	639	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Hendry	Vote-by-Mail Provided (Not Yet Returned)	641	705	2	118	1,466	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Hernando	Vote-by-Mail Provided (Not Yet Returned)	13,290	11,225	181	5,952	30,648	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Highlands	Vote-by-Mail Provided (Not Yet Returned)	3,758	2,763	17	1,128	7,666	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Hillsborough	Vote-by-Mail Provided (Not Yet Returned)	58,156	72,001	882	34,843	165,882	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Holmes	Vote-by-Mail Provided (Not Yet Returned)	705	440	3	63	1,211	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Indian River	Vote-by-Mail Provided (Not Yet Returned)	6,886	4,438	64	2,255	13,643	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Jackson	Vote-by-Mail Provided (Not Yet Returned)	930	1,494	1	21	2,446	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Jefferson	Vote-by-Mail Provided (Not Yet Returned)	213	411	0	42	666	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Lafayette	Vote-by-Mail Provided (Not Yet Returned)	142	217	0	0	359	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Lake	Vote-by-Mail Provided (Not Yet Returned)	11,045	8,283	79	3,390	22,797	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Lee	Vote-by-Mail Provided (Not Yet Returned)	49,152	28,072	347	19,995	97,566	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Leon	Vote-by-Mail Provided (Not Yet Returned)	7,745	14,098	102	2,886	24,831	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Levy	Vote-by-Mail Provided (Not Yet Returned)	2,292	1,315	36	434	4,077	08/03/2018  7:12AM
+10480	08/28/2018	2018 Primary Election	Liberty	Vote-by-Mail Provided (Not Yet Returned)	54	249	1	23	327	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Madison	Vote-by-Mail Provided (Not Yet Returned)	248	460	0	37	745	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Manatee	Vote-by-Mail Provided (Not Yet Returned)	27,299	19,255	310	11,676	58,540	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Marion	Vote-by-Mail Provided (Not Yet Returned)	14,848	10,003	103	4,470	29,424	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Martin	Vote-by-Mail Provided (Not Yet Returned)	9,852	5,087	92	2,571	17,602	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Miami-Dade	Vote-by-Mail Provided (Not Yet Returned)	86,954	124,109	841	72,157	284,061	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Monroe	Vote-by-Mail Provided (Not Yet Returned)	5,211	4,274	70	2,079	11,634	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Nassau	Vote-by-Mail Provided (Not Yet Returned)	4,998	2,175	45	1,238	8,456	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Okaloosa	Vote-by-Mail Provided (Not Yet Returned)	7,594	3,031	102	2,651	13,378	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Okeechobee	Vote-by-Mail Provided (Not Yet Returned)	783	627	4	188	1,602	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Orange	Vote-by-Mail Provided (Not Yet Returned)	35,084	60,543	548	27,707	123,882	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Osceola	Vote-by-Mail Provided (Not Yet Returned)	12,950	21,646	163	12,120	46,879	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Palm Beach	Vote-by-Mail Provided (Not Yet Returned)	39,485	74,880	636	27,779	142,780	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Pasco	Vote-by-Mail Provided (Not Yet Returned)	21,891	19,548	288	11,721	53,448	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Pinellas	Vote-by-Mail Provided (Not Yet Returned)	86,400	89,131	1,216	47,655	224,402	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Polk	Vote-by-Mail Provided (Not Yet Returned)	33,749	29,513	325	14,925	78,512	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Putnam	Vote-by-Mail Provided (Not Yet Returned)	1,606	1,829	11	425	3,871	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Santa Rosa	Vote-by-Mail Provided (Not Yet Returned)	5,374	2,217	53	1,652	9,296	08/04/2018  1:03PM
+10480	08/28/2018	2018 Primary Election	Sarasota	Vote-by-Mail Provided (Not Yet Returned)	22,232	22,329	188	8,410	53,159	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Seminole	Vote-by-Mail Provided (Not Yet Returned)	21,634	18,694	274	11,226	51,828	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	St. Johns	Vote-by-Mail Provided (Not Yet Returned)	10,916	6,741	120	3,265	21,042	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	St. Lucie	Vote-by-Mail Provided (Not Yet Returned)	11,464	12,661	106	5,864	30,095	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Sumter	Vote-by-Mail Provided (Not Yet Returned)	5,389	4,434	40	1,760	11,623	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Suwannee	Vote-by-Mail Provided (Not Yet Returned)	1,638	1,280	0	53	2,971	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Taylor	Vote-by-Mail Provided (Not Yet Returned)	733	1,087	5	93	1,918	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Union	Vote-by-Mail Provided (Not Yet Returned)	155	247	0	8	410	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Volusia	Vote-by-Mail Provided (Not Yet Returned)	25,630	23,126	357	13,888	63,001	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Wakulla	Vote-by-Mail Provided (Not Yet Returned)	725	786	4	194	1,709	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Walton	Vote-by-Mail Provided (Not Yet Returned)	1,869	635	0	0	2,504	08/04/2018  7:11AM
+10480	08/28/2018	2018 Primary Election	Washington	Vote-by-Mail Provided (Not Yet Returned)	788	504	0	105	1,397	08/04/2018  7:11AM
