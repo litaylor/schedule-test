@@ -1,1 +1,1 @@
-web: python app.py $PORT
+scrapeit: python app.py
