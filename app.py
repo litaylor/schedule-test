@@ -3,16 +3,10 @@
 import datetime
 now = datetime.datetime.now()
 
-from os import environ
-from flask import Flask
+test_filename = str(now.year) + '-' + str(now.month) + '-' + str(now.day )+ '-' + str(now.hour) + '-' + str(now.minute) + '-test.txt'
 
-# test_filename = str(now.year) + '-' + str(now.month) + '-' + str(now.day )+ '-' + str(now.hour) + '-' + str(now.minute) + '-test.txt'
-#
-# with open(test_filename, "w") as text_file:
-#     text_file.write('test test test')
-
-app = Flask(__name__)
-app.run(environ.get('PORT'))
+with open(test_filename, "w") as text_file:
+    text_file.write('test test test')
 
 # browser = mechanicalsoup.StatefulBrowser()
 # browser.open('https://countyballotfiles.elections.myflorida.com/FVRSCountyBallotReports/AbsenteeEarlyVotingReports/PublicStats')
