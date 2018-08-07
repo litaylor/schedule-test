@@ -12,7 +12,12 @@ with open(test_filename, "w") as text_file:
     text_file.write('test test test')
 
 app = Flask(__name__)
-app.run(environ.get('PORT'))
+@app.route('/')
+def hello():
+    return "Hello World!"
+
+if __name__ == '__main__':
+    app.run()
 
 # browser = mechanicalsoup.StatefulBrowser()
 # browser.open('https://countyballotfiles.elections.myflorida.com/FVRSCountyBallotReports/AbsenteeEarlyVotingReports/PublicStats')
