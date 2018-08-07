@@ -3,7 +3,7 @@
 import datetime
 now = datetime.datetime.now()
 
-# from os import environ
+from os import environ
 from flask import Flask
 
 # test_filename = str(now.year) + '-' + str(now.month) + '-' + str(now.day )+ '-' + str(now.hour) + '-' + str(now.minute) + '-test.txt'
@@ -12,12 +12,7 @@ from flask import Flask
 #     text_file.write('test test test')
 
 app = Flask(__name__)
-@app.route('/')
-def hello():
-    return "Hello World!"
-
-if __name__ == '__main__':
-    app.run()
+app.run(environ.get('PORT'))
 
 # browser = mechanicalsoup.StatefulBrowser()
 # browser.open('https://countyballotfiles.elections.myflorida.com/FVRSCountyBallotReports/AbsenteeEarlyVotingReports/PublicStats')
