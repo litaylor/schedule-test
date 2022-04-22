@@ -48,7 +48,7 @@ pipenv==2018.7.1
 prompt-toolkit==1.0.15
 Pygments==2.2.0
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dateutil==2.6.1
 pytz==2017.2
 pyzmq==16.0.2
