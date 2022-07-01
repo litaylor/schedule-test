@@ -38,7 +38,7 @@ nbformat==4.4.0
 nltk==3.3
 notebook==5.1.0
 numpy==1.13.3
-openpyxl==1.8.6
+openpyxl==2.4.2
 pandas==0.20.3
 pandocfilters==1.4.2
 parso==0.1.0
